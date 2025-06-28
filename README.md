@@ -1,2 +1,3 @@
-# DOT-CPP
+# ☕ DOT-CPP
+
 A repository for C++ Programming
